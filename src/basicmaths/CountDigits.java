@@ -1,4 +1,4 @@
-package com.knowbasicmaths;
+package basicmaths;
 
 public class CountDigits {
     static int evenlyDivides(int N){

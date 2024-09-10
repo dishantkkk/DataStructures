@@ -1,4 +1,4 @@
-package com.recursion;
+package recursion;
 
 public class Fibonacci {
     public static int fibRecursive(int n) {

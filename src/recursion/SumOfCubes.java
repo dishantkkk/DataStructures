@@ -1,4 +1,4 @@
-package com.recursion;
+package recursion;
 
 public class SumOfCubes {
     static long sumOfCubes(long n) {

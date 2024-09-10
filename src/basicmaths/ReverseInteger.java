@@ -1,4 +1,4 @@
-package com.knowbasicmaths;
+package basicmaths;
 
 public class ReverseInteger {
     static int reverse(int x) {

@@ -1,4 +1,4 @@
-package com.knowbasicmaths;
+package basicmaths;
 
 public class SumOfDivisors {
     static long sumOfDivisors(int N){

@@ -1,4 +1,4 @@
-package com.knowbasicmaths;
+package basicmaths;
 
 public class CheckPrime {
     static int isPrime(int n){

@@ -1,4 +1,4 @@
-package com.knowbasicmaths;
+package basicmaths;
 
 public class LCMandGCD {
     static Long[] lcmAndGcd(Long A , Long B) {

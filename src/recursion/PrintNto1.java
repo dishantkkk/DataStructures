@@ -1,4 +1,4 @@
-package com.recursion;
+package recursion;
 
 public class PrintNto1 {
     static void printNos(int N) {

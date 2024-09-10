@@ -1,4 +1,4 @@
-package com.knowbasicmaths;
+package basicmaths;
 
 public class Palindrome {
     static boolean isPalindrome(int x) {

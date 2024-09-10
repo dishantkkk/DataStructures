@@ -1,4 +1,4 @@
-package com.recursion;
+package recursion;
 
 public class PrintGFG {
     static void printGfg(int N) {
