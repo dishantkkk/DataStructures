@@ -49,4 +49,6 @@ public class QuickSort {
         System.out.println(arr);
 
     }
+    // O(n^2) - best case
+    // O(nlogn) - worst case
 }
