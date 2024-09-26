@@ -1,3 +1,3 @@
-DSA Questions from Strivers A2Z DSA Course
+DSA Questions
 
-Welcome to my repository for practicing and solving Data Structures and Algorithms (DSA) problems from the Strivers A2Z DSA Course/Sheet.
+Welcome to my repository for practicing and solving Data Structures and Algorithms (DSA) problems.
